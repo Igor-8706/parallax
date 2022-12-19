@@ -30,7 +30,7 @@ body{
     z-index: 100;
     width: 100%;
     height: calc(var(--index)*10);
-    background: url(/img/ground.png) center/ cover no-repeat;
+    background: url(img/ground.png) center/ cover no-repeat;
     bottom: calc(var(--index)*-4.5);
 }
 .layers {
